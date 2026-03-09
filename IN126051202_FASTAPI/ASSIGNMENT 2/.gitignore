@@ -1,0 +1,6 @@
+.venv
+__pycachce__
+*.pyc
+*.pyo
+*.pyd
+.Python
